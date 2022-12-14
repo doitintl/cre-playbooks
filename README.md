@@ -1,12 +1,10 @@
-# CRE Database playbooks   
+# CRE Playbooks   
 
-A collection of database related playbooks to help CREs solve problems more efficiently   
+A collection of playbooks to help CREs solve problems more efficiently and consistently  
 
 ## Index
 
-* ### [PostgreSQL](databases/postgres/README.md) Playbooks
-* ### [MySQL](databases/mysql/README.md) Playbooks
-* ### [SQL Server](databases/sqlserver/README.md) Playbooks
-* ### [Oracle](databases/oracle/README.md) Playbooks
+* ### [Database](databases/README.md) playbooks
+* ### [Security](security/README.md) playbooks
 
 **Don't see something? Just add it! :)**   
