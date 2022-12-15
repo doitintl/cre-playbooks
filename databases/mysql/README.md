@@ -1,12 +1,12 @@
 # MySQL Playbooks
-This folder will contain an index of the content related to MySQL.    
-General RDBMS content related to a specific database should be placed under general/
-Cloud vendor specific content should be placed under {vendor}/
+This folder contains MySQL playbooks.    
+General RDBMS content for MySQL is placed under `general/`
+Cloud vendor specific content is placed under `{vendor}/` and should reference `general/` whenever possible.
 
 * ### General
   * #### Common Problems
     * Disk space full (TODO)
   * #### Performance
   * #### Replication
-
-
+  * #### Monitoring
+     * [StatPack](statpack/README.md)
