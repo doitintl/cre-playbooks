@@ -1,3 +1,8 @@
+[Playbooks](../../../../README.md) > [Data](../../../README.md) > 
+[Databases](../../README.md) > [PostgreSQL](../../README.md) > 
+[Excessive storage](../../general/common-problems/pb_storage_excessive.md) >
+Cloud SQL Archived_wal_log
+
 # Archived_wal_log excessive space usage
 
 This playbook is meant to help troubleshoot when Archived_wal_log is using excessive disk space
