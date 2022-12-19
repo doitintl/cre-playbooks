@@ -1,3 +1,6 @@
+[Playbooks](../../../../README.md) > [Data](../../../README.md) > 
+[Databases](../../README.md) > [PostgreSQL](../../README.md) > Excessive storage 
+
 # Excessive storage usage playbook   
 
 Typically, disk space will be exhausted for one of the following reasons.   
