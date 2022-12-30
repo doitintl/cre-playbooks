@@ -1,3 +1,7 @@
+[Playbooks](../../../../README.md) > [Data](../../../README.md) > 
+[Databases](../../README.md) > [PostgreSQL](../../README.md) > Slow Queries 
+
+
 Hi! I want to start with some definitions to plan our subsequent actions correctly.
 
  - `VACUUM ANALYZE` performs a `VACUUM` and then an `ANALYZE` for each selected table. This is a handy combination form for **routine maintenance scripts**
