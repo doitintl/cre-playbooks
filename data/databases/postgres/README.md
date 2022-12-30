@@ -6,6 +6,7 @@ This folder will contain an index of the content related to PostgreSQL.
   * #### Common Problems
     * [Excessive disk space used or space exhausted](general/common-problems/pb_storage_excessive.md)
   * #### Performance
+    * [Excessive disk space used or space exhausted](general/Performance/Slow queries.md)
   * #### Replication
 
 
