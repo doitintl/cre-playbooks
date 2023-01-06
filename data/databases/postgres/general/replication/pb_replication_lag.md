@@ -15,7 +15,7 @@ Please follow the Checklist and linked sections afterward for more details.
 ### Checklist
 - [ ] Confirm GCP or AWS
   - [ ] Request access to the customer environment
-- [ ] Confirm the version of Postgres
+- [ ] Confirm the version of PostgreSQL
 - [ ] Confirm type of replication in use
   - [ ] Cloud-managed read-replica (native replication)
   - [ ] pglogical
